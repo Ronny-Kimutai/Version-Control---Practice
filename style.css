@@ -32,9 +32,6 @@ body{
     max-width: var(--max-width);
     margin-inline: auto;
     display: grid;
-    grid-template-columns: 1fr 320px;
-    gap: calc(var(--gap) * 1.25);
-    align-items: start;
 }
 
 /* Header */

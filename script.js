@@ -1,6 +1,8 @@
 // script.js
 
 // A simple JavaScript program that logs a message to the console
+// This is for the Logout screen.....YEAH!
+// Name Added - Ronny
 function greet(name) {
     console.log(`Hello, ${name}! Welcome to the world of JavaScript.`);
 }
